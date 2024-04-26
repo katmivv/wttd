@@ -35,8 +35,8 @@ img.pfp{
     width: 500px;
     height: 400px;
     position: absolute;
-    top: 130px;
-    left: 950px;
+    top: 150px;
+    left: 1020px;
     z-index: 2;
 }
 .circle{
