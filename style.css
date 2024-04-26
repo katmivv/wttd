@@ -544,6 +544,7 @@ p1.dva2{
     width: 150px;
     rotate: -15deg;
     position: absolute;
+    z-index: 3;
 }
 .starrsmileee{
     height: 150px;
