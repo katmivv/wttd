@@ -33,9 +33,9 @@ h3{
 img.pfp{
     width: 50%;
     width: 500px;
-    height: 400px;
+    height: 470px;
     position: absolute;
-    top: 150px;
+    top: 180px;
     left: 850px;
     z-index: 2;
 }
@@ -47,7 +47,7 @@ img.pfp{
     height: 600px;
     border-radius: 100%;
     background: linear-gradient(to bottom left, #6f1d1b 2%, #bb9457 99%);
-    top: 75px;
+    top: 135px;
 }
 .plsk{
     position: absolute;
@@ -76,21 +76,18 @@ img.pfp{
     border-color: #99582a;
     border-style: solid;
     border-width: 4px;
-    width: 670px;
+    width: 80%;
     height: 70px;
-    position: absolute;
-    top: 20px;
-    left: 100px;
+    margin-top: 20px;
+    margin-left: 10%;
     display: flex;
-    justify-content: center; 
-    text-align: center;
 }
 p.odin{
     font-size: 35px;
     position: absolute;
     z-index: 3;
-    top: -20px;
-    left: 45px;
+    margin-top: 15px;
+    margin-left: 60px;
 }
 p1.odin1{
     font-size: 25px;
@@ -104,16 +101,16 @@ p1.odin1{
     top: -3px;
 }
 .c{
-        left: 160px;
+    left: 360px;
 }
 .cc{
-    left: 260px;
+    left: 560px;
 }
 .ccc{
-    left: 390px;
+    left: 790px;
 }
 .cccc{
-    left: 500px;
+    left: 1000px;
 }
 .secondblock{
     display: flex;
@@ -544,7 +541,6 @@ p1.dva2{
     width: 150px;
     rotate: -15deg;
     position: absolute;
-    z-index: 3;
 }
 .starrsmileee{
     height: 150px;
